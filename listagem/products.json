@@ -1,0 +1,113 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "image": "product-images/bacon.png",
+      "name": "Bacon burguer",
+      "price": "R$13,00",
+      "categoria": "Hambúrguer"
+    },
+    {
+      "id": 2,
+      "image": "product-images/triplo burguer.png",
+      "name": "Triplo burguer",
+      "price": "R$15,00",
+      "categoria": "Hambúrguer"
+    },
+    {
+      "id": 3,
+      "image": "product-images/vegetariano.png",
+      "name": "Vegetariano",
+      "price": "R$12,00",
+      "categoria": "Hambúrguer"
+    },
+    {
+		"id":4,
+		"image":"product-images/batata.png",
+    "name":"Batata Rústica",
+    "price":"R$8,00",
+    "categoria": "Petisco" 
+    },
+    {
+      "id": 5,
+      "image": "product-images/cebola empanada.png",
+      "name": "Cebola empanada",
+      "price": "R$8,00",
+      "categoria": "Petisco"
+    },
+    {
+      "id": 6,
+      "image": "product-images/bolinho de costela.png",
+      "name": "Bolinho de costela",
+      "price": "R$10,00",
+      "categoria": "Petisco"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 7,
+      "image": "",
+      "name": "Augusto",
+      "price": "R$1.800,00",
+      "categoria": "Gerente"
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "Joyce",
+      "price": "R$1.200,00",
+      "categoria": "Atendente"
+    },
+    {
+      "id": 3,
+      "image": "",
+      "name": "Gustavo",
+      "price": "R$1.294,00",
+      "categoria": "Chapeiro"
+    },
+    {
+      "id": 4,
+      "image": "",
+      "name": "Bruna",
+      "price": "R$1.227,00",
+      "categoria": "Auxiliar de cozinha"
+    },
+    {
+      "id": 5,
+      "image": "",
+      "name": "Gabriel",
+      "price": "R$1.214,00",
+      "categoria": "Garçom"
+    }
+  ],
+  "fornecedor": [
+    {
+      "id": 1,
+      "image": "",
+      "name": "Sr.Burguer",
+      "price": "",
+      "categoria": "Hambúrguer"
+    },
+    {
+      "id": 2,
+      "image": "",
+      "name": "Los Gustos Pães",
+      "price": "",
+      "categoria": "Pães"
+    },
+    {
+      "id": 3,
+      "image": "",
+      "name": "Hortifruti",
+      "price": "",
+      "categoria": "Verduras, vegetais e legumes"
+    },
+    {
+      "id": 4,
+      "image": "",
+      "name": "Mr.Cheese",
+      "price": "",
+      "categoria": "Frios"
+    }
+  ]
+}
